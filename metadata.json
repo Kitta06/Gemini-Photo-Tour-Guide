@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Photo Tour Guide",
+  "description": "An AI-powered tourism application. Upload a photo of a landmark, and the app will identify it, provide a detailed history using Google Search for up-to-date information, and generate a spoken audio guide for you to listen to.",
+  "requestFramePermissions": []
+}
